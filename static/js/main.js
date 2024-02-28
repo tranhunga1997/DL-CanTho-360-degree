@@ -15,7 +15,7 @@ var viewer = pannellum.viewer(panorama, {
     "scenes": {
         "circle": {
             "type": "equirectangular",
-            "panorama": "/static/imgs/IMG_20240226_083202_00_041.jpg"
+            "panorama": "/static/imgs/bg.jpg"
         }
     }
 });
